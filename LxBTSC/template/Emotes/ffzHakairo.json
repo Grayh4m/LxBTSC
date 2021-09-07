@@ -4,7 +4,15 @@
     "pathappend": "/1",
     "emoticons": 
     [
-        { "code": "widepeepoHappy", "name": 270930 }
+        { "code": "widepeepoHappy", "name": 270930 },
+        { "code": "OMEGALUL", "name": 128054 },
+        { "code": "PepeHands", "name": 231552 },
+        { "code": "widepeepoSad", "name": 303899 },
+        { "code": "HYPERS", "name": 236895 },
+        { "code": "peepoBlanket", "name": 262458 },
+        { "code": "AYAYA", "name": 162146 }
+       
+
         
     ]
 }
