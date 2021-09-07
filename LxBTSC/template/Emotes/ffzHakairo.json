@@ -1,0 +1,10 @@
+{
+    "setname": "FFZ Hakairo",
+    "pathbase": "https://cdn.frankerfacez.com/emoticon/",
+    "pathappend": "/1",
+    "emoticons": 
+    [
+        { "code": "widepeepoHappy", "name": 270930 }
+        
+    ]
+}
